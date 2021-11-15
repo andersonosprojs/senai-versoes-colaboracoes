@@ -1,4 +1,4 @@
-## senai-versoes-colaboracoes
+# senai-versoes-colaboracoes
 
 ### Configurações iniciais:
  * git config --global user.name <nome-usuario>
